@@ -28,3 +28,5 @@ Observação 📝
 O nome "Amido Secreto" é uma brincadeira lúdica com o termo "Amigo Secreto". O projeto é perfeito para eventos, festas ou qualquer ocasião que exija um sorteio justo e aleatório!
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias.
+
+Acesso ao projeto online: https://amigosecreto-omega.vercel.app/
